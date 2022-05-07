@@ -1,0 +1,9 @@
+// all blogs
+export const BLOG_LIST_REQUEST = "BLOG_LIST_REQUEST";
+export const BLOG_LIST_SUCCESS = "BLOG_LIST_SUCCESS";
+export const BLOG_LIST_FAIL = "BLOG_LIST_FAIL";
+
+// single blog
+export const BLOG_DETAILS_REQUEST = "BLOG_DETAILS_REQUEST";
+export const BLOG_DETAILS_SUCCESS = "BLOG_DETAILS_SUCCESS";
+export const BLOG_DETAILS_FAIL = "BLOG_DETAILS_FAIL";
