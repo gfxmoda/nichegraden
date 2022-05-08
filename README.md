@@ -9,7 +9,7 @@ Homepage
 
 Category page
 ###
-<img src="https://github.com/gfxmoda/nichegraden/blob/main/nichegardenbh%20-%20screenshot.PNG">
+<img src="https://github.com/gfxmoda/nichegraden/blob/main/nichegardenbh%20-%20screenshot%20-%20category.PNG">
 
 Product page
 ###
